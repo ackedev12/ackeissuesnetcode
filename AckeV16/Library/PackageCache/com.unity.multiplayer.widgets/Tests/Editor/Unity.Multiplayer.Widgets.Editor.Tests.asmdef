@@ -1,0 +1,15 @@
+{
+    "name": "Unity.Multiplayer.Widgets.Editor.Tests",
+    "references": [
+        "Unity.Multiplayer.Widgets.Editor",
+        "Unity.Multiplayer.Widgets.Core",
+        "Unity.Multiplayer.Widgets.Session"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

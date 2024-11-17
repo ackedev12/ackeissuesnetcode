@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3566D490-F9DC-2506-2CC8-0DA8594B4E0F}|Assembly-CSharp.csproj|c:\\users\\lordz\\documents\\unity\\ackev16\\assets\\scripts\\lobbymessageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3566D490-F9DC-2506-2CC8-0DA8594B4E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lobbymessageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Library\\PackageCache\\com.unity.services.authentication\\Runtime\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.services.authentication\\Runtime\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Library\\PackageCache\\com.unity.services.multiplayer\\Runtime\\Lobbies\\SDK\\WrappedLobbyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.services.multiplayer\\Runtime\\Lobbies\\SDK\\WrappedLobbyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\assets\\lobbymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\lobbymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LobbyMessageUI.cs",
+              "DocumentMoniker": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Assets\\Scripts\\LobbyMessageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LobbyMessageUI.cs",
+              "ToolTip": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Assets\\Scripts\\LobbyMessageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LobbyMessageUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:57:30.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Library\\PackageCache\\com.unity.services.authentication\\Runtime\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.services.authentication\\Runtime\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Library\\PackageCache\\com.unity.services.authentication\\Runtime\\AuthenticationService.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.services.authentication\\Runtime\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:58:37.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrappedLobbyService.cs",
+              "DocumentMoniker": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Library\\PackageCache\\com.unity.services.multiplayer\\Runtime\\Lobbies\\SDK\\WrappedLobbyService.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.services.multiplayer\\Runtime\\Lobbies\\SDK\\WrappedLobbyService.cs",
+              "ToolTip": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Library\\PackageCache\\com.unity.services.multiplayer\\Runtime\\Lobbies\\SDK\\WrappedLobbyService.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.services.multiplayer\\Runtime\\Lobbies\\SDK\\WrappedLobbyService.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAhwLEAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:56:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LobbyManager.cs",
+              "DocumentMoniker": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Assets\\LobbyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\LobbyManager.cs",
+              "ToolTip": "C:\\Users\\lordz\\Documents\\Unity\\AckeV16\\Assets\\LobbyManager.cs",
+              "RelativeToolTip": "Assets\\LobbyManager.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAApwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:32:55.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
